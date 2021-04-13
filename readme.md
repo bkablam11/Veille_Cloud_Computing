@@ -1,0 +1,2 @@
+# Explication
+On dit qu'un service est dans le cloud lorsque les moyens de production de ce service sont générés chez les fournisseurs cloud. Ainsi, le client ne possède pas les moyens de production de ce service. Il y accède via internet à la demmande en souscrivant (ou non) à un abonement auprès du fournisseur.
